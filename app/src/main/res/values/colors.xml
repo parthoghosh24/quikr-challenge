@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="quikr_green">#ff178a1a</color>
+    <color name="quikr_title_blue">#ff22378a</color>
+    <color name="quikr_bg_light_blue">#ff3f618a</color>
+    <color name="quikr_ratings_yellow">#ffeade51</color>
+</resources>
